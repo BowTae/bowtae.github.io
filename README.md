@@ -69,7 +69,7 @@ A combination of Hold and Dash cancels. Essentially the same speed as Hold Cance
 * Minimum time per shot: 23 frames per shot, but do not do this
   
 ## Aimed R-Cancel Charged Shot (ARCC), or R-Cancels 
-Tap R to enter Aim mode. (Press and) Release M1, and tap R at the same time to fire a CA. Immediately tap R again to re-enter Aim mode. For more information, see the TCL entry: https://library.keqingmains.com/evidence/mechanics/combat/tech/arcc#how-to-arcc
+Tap R to enter Aim mode. (Press and) Release M1, and tap R at the same time to fire a CA. Immediately tap R again to re-enter Aim mode. For more information, see the [KQM TCL entry](https://library.keqingmains.com/evidence/mechanics/combat/tech/arcc#how-to-arcc).  
 
 ARCC is the fastest but most difficult way to shoot Charged Shots. It requires frame perfect timing, and when unsuccessful, Amber enters a lengthy recovery animation, significantly dropping her DPS. Even if a player is able to pull it off consistently, it has issues that make it not recommended in most cases. ARCC shots cannot be aimed vertically, and when within range of enemies, the shots will autotarget, meaning that where the player aims does not matter. For most enemies, Amber is unable to headshot them using this method. 
 
