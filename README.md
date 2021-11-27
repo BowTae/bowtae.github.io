@@ -17,6 +17,8 @@ The easiest but slowest way to shoot CAs. After each shot, Amber does a lengthy 
 **Physical:** This method is for those that are uncomfortable with constantly entering and exiting Aim mode, and don’t want to deal with having to adjust aim after each shot. Despite the slow rate of fire, this method can be used effectively in long range situations when it is difficult to aim accurately with Hold Cancels.
 * Minimum time per shot: 36 frames (need to redo/recount)
 
+{% embed url="https://imgur.com/AGu7J44" caption="" %}
+
 ## Hold Cancel
 * Hold M1 to enter Aim mode. Release M1 to fire a CA.
 
