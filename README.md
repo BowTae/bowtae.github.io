@@ -2,7 +2,7 @@
 
 Various methods exist to reduce the time Amber takes to fire each CA, increasing the DPS that she can do. You should choose the method that you are most comfortable with, as execution errors and missed shots will significantly reduce your damage.  
 
-The following tech can be performed on any platform, including PC, console, and mobile. For simplicity, PC inputs are used to describe how to perform each tech.  
+The following tech can be performed on any platform, including PC, console, and mobile. For simplicity, PC inputs are used to describe how to perform each tech. Some frame counts might be off by a couple frames as it's hard to get exact numbers without macros.  
 
 **TLDR: For both Physical and Pyro CA playstyles, use Hold Cancels to shoot CAs.**
 
@@ -12,12 +12,12 @@ The following tech can be performed on any platform, including PC, console, and 
 The easiest but slowest way to shoot CAs. After each shot, Amber does a lengthy recovery animation before she begins charging for the next shot.
 
 **Pyro:** Not generally recommended due to the long animation after each shot.  
-* Minimum time per shot: _ frames
+* Minimum time per shot: 73 frames for first shot, 107 for subsequent shots  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M3tI7GmZG5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Physical:** This method is for those that are uncomfortable with constantly entering and exiting Aim mode, and don’t want to deal with having to adjust aim after each shot. Despite the slow rate of fire, this method can be used effectively in long range situations when it is difficult to aim accurately with Hold Cancels.
-* Minimum time per shot: 36 frames (need to redo/recount)
+* Minimum time per shot: 34 frames
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GAN2s9rspRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -27,7 +27,7 @@ The easiest but slowest way to shoot CAs. After each shot, Amber does a lengthy 
 **The recommended way to fire CAs with Amber.**  
 
 **Pyro:** Recommended method to shoot Pyro CA.  
-* Minimum time per shot: 94 frames (includes recovery animation time)
+* Minimum time per shot: 83 frames for first shot, 94 frames (includes recovery animation time)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Osf8zD741Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -44,27 +44,27 @@ Dash Cancels are essentially identical in speed to Hold Cancels, trading stamina
 Be aware that dashing too early can cause Amber to either not fire an arrow, or cause the arrow to shoot out horizontally or autotarget, regardless of how you aim.
 
 **Pyro:** Dash Cancels can be used to dodge attacks after firing a shot. Players can switch between Dash and Hold Cancels depending on the situation.
-* Minimum time per shot: 106 frames? Redo this, should be 92? I think with R aim
+* Minimum time per shot: 94 frames
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TSpwP_S40lE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Physical:** Not recommended due to high stamina use for no advantage compared to Hold Cancels. You will also be locked out of dash after two dashes.
-* Minimum time per shot: 23 frames? why would you use this though
+* Minimum time per shot: 23 frames, but you should not use this
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-2V83SvlTms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ## M1-R
 Hold M1 to enter Aim mode. Release M1 to fire a CA. Tap R as you exit Aim mode to re-enter Aim mode. (Press and) Release M1 to fire a CA then immediately dash.
 
-A combination of Hold and Dash cancels. When done perfectly, M1-R is slightly faster than Hold Cancels for Pyro CAs. At a human level, either method can be faster or slower, depending on the player’s ability.
+A combination of Hold and Dash cancels. When done well, M1-R fires two CAs faster than Hold Cancels. At a human level, either method can be faster or slower, depending on the player’s ability.
 
 **Pyro:** While M1-R can be faster than Hold Cancels, it has more complex inputs. Use whichever method is more comfortable and consistent for you.
-* Minimum time per shot: ~180 frames for every 2 shots (includes the time it takes to dash), so ~90 frames per shot
+* Minimum time per shot: ~188 frames for every 2 shots (includes the time it takes to dash), so ~94 frames per shot
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OlCrv2ATJ2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Physical:** M1-R is not recommended for Physical Amber due to the high difficulty of performing the inputs at high speed for no advantage.
-* Minimum time per shot: Fk no (23 frames if perfect but that’s actually impossible and useless)
+* Minimum time per shot: 23 frames per shot, but do not do this
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g5ZCpMA4YXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
   
@@ -74,7 +74,7 @@ Tap R to enter Aim mode. (Press and) Release M1, and tap R at the same time to f
 ARCC is the fastest but most difficult way to shoot Charged Shots. It requires frame perfect timing, and when unsuccessful, Amber enters a lengthy recovery animation, significantly dropping her DPS. Even if a player is able to pull it off consistently, it has issues that make it not recommended in most cases. ARCC shots cannot be aimed vertically, and when within range of enemies, the shots will autotarget, meaning that where the player aims does not matter. For most enemies, Amber is unable to headshot them using this method. 
 
 **Pyro:** ARCC should only be used for enemies that have no weakspot. The cost of building crit rate is not worth the few frames that ARCC saves over other methods.
-* Minimum time per shot: 73 frames
+* Minimum time per shot: 74 frames
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1RAti51fbUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -90,7 +90,7 @@ ARCC is the fastest but most difficult way to shoot Charged Shots. It requires f
 Not to be confused with M1-R. A mix between Hold Cancels and ARCC. Still requires frame perfect timing and has the same issue of being unable to headshot most enemies.
 
 **Pyro:** Slower than ARCC without any benefit. Not recommended.
-* Minimum time per shot: 83 frames
+* Minimum time per shot: 84 frames
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SdzetqKeI4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
