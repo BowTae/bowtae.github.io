@@ -14,9 +14,7 @@ The easiest but slowest way to shoot CAs. After each shot, Amber does a lengthy 
 **Pyro:** Not generally recommended due to the long animation after each shot.  
 * Minimum time per shot: _ frames
 
-!(image)[https://imgur.com/5R1DGeY.mp4]  
-!(image)[../../gifs/arcc-pyro.gif]  
-<img src="../../gifs/arcc-pyro.gif">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M3tI7GmZG5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Physical:** This method is for those that are uncomfortable with constantly entering and exiting Aim mode, and don’t want to deal with having to adjust aim after each shot. Despite the slow rate of fire, this method can be used effectively in long range situations when it is difficult to aim accurately with Hold Cancels.
 * Minimum time per shot: 36 frames (need to redo/recount)
