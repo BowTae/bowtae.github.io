@@ -96,5 +96,5 @@ Not to be confused with M1-R. A mix between Hold Cancels and ARCC. Still require
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K2qrMm2PhMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-**Physical:** A slightly easier method to do on PC and mobile compared to normal ARCC. On the other hand, this is extremely difficult to do on controller, requiring a perfect L2 flick to achieve comparable speeds.
+**Physical:** Slightly easier compared to normal ARCC, but still very difficult.
 * Minimum time per shot: 13 frames
