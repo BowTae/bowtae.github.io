@@ -29,7 +29,7 @@ The easiest but slowest way to shoot CAs. After each shot, Amber does a lengthy 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Osf8zD741Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Pyro:** Recommended method to shoot Pyro CA.  
-* Minimum time per shot: 83 frames for first shot, 94 frames (includes recovery animation time)
+* Minimum time per shot: 86 frames for first shot, 96 frames (includes recovery animation time)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xQaMZgJNYd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -61,7 +61,7 @@ A combination of Hold and Dash cancels. Essentially the same speed as Hold Cance
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OlCrv2ATJ2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Pyro:** Has more complex inputs. Use whichever method is more comfortable and consistent for you.
-* Minimum time per shot: ~188 frames for every 2 shots (includes the time it takes to dash), so ~94 frames per shot
+* Minimum time per shot: ~190 frames for every 2 shots (includes the time it takes to dash), so ~95 frames per shot
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g5ZCpMA4YXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
@@ -82,7 +82,7 @@ ARCC is the fastest but most difficult way to shoot Charged Shots. It requires f
 
 **Physical:** Extremely difficult to pull off, but has a near limitless ceiling for speed. If you really want to try this, setting your game to 30fps framerate and using a controller is recommended. When successful, Amber can fire 5+ CAs per second at a human level, reaching damage levels far beyond what she is intended to do.
 * Macro minimum time per shot: 5 frames
-* “Realistic” minimum time per shot: 10-15 frames
+* “Realistic” minimum time per shot: 10-20 frames
 
 ## Hold M1-RCC (name pending)
 * Hold M1 to enter Aim mode. Release M1 and tap R at the same time to fire a CA. Immediately hold M1 to re-enter Aim mode.
@@ -97,4 +97,4 @@ Not to be confused with M1-R. A mix between Hold Cancels and ARCC. Still require
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K2qrMm2PhMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 **Physical:** Slightly easier compared to normal ARCC, with a lower theoretical ceiling, but still very difficult.
-* Minimum time per shot: 13 frames
+* Minimum time per shot: 14 frames
